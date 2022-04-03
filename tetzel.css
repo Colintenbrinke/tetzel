@@ -1,0 +1,68 @@
+body{
+    background-color: white;
+    background-repeat: no-repeat;
+}
+
+#box{
+Width: 73%;
+height: 4000px;
+text-align: center;
+border-radius: 25px;
+transform: translate(-50%,0%);
+position: absolute;
+left: 50%;
+top: 12%;
+}
+
+.homeimage{
+    width: 98%;
+    height: 600px;
+    border-radius: 25px;
+    position: absolute;
+    top: 1%;
+    left: 1%;
+
+}
+
+.titel{
+    font-family: Arial, Times, serif;
+    font-size: 45px;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    top: -1%;
+    left: 50%;
+
+}
+
+.par1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 23px;
+    margin-top: 60px;
+    text-align: left;
+    position: absolute;
+    top: 15%;
+    left: 1%;
+    right: 1%;
+}
+
+.sintpieter{
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-right: 1%;
+    float: right;
+    height: 300px;
+    width: 500px;
+}
+
+.tetzel{
+    padding-left: 30px;
+    float: right;
+    height: 300px;
+    width: 500px;
+}
+
+::-webkit-scrollbar-track{
+   background: orange;
+}
+
+
